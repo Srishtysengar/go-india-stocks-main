@@ -8,13 +8,6 @@ Go India Stocks is a web application built with Next.js that provides informatio
 
 Go India Stocks aims to provide users with a user-friendly interface to access stock information, track market trends, and perform analysis on stocks traded in the Indian stock market. The application fetches data from reliable sources and presents it in a visually appealing and easy-to-understand manner.
 
-## Installation
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/Srishtysengar/go-india-stocks.main
-```
 
 ## Navigate into the project directory:
 
